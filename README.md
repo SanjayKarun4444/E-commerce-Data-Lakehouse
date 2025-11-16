@@ -498,19 +498,6 @@ dbutils.fs.rm("/FileStore/checkpoints/bronze_sales", recurse=True)
 spark.conf.set("spark.databricks.delta.schema.autoMerge.enabled", "true")
 ```
 
-## 📝 Grading Rubric Mapping
-
-| Criteria | Points | Evidence |
-|----------|--------|----------|
-| **Successful Execution** | 40% | All cells run without errors; Delta tables created successfully |
-| **Functionality** | 50% | All requirements met (see checklist above) |
-| **Documentation** | 10% | Markdown explanations in notebook + this README |
-
-**Expected Score: 100/100** ✅
-
-## 🤝 Contributing
-
-This is an individual academic project for DS-2002. No contributions are being accepted.
 
 ## 📄 License
 
@@ -518,11 +505,11 @@ This project is for educational purposes as part of the DS-2002 course.
 
 ## 👤 Author
 
-**[Your Name]**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@university.edu
+**Sanjay Karunamoorthy**
+- GitHub: [@SanjayKarun4444](https://github.com/SanjayKarun4444)
+- Email: vmw8vr@university.edu
 - Course: DS-2002 - Data Systems
-- Semester: Fall 2024
+- Semester: Fall 2025
 
 ## 🙏 Acknowledgments
 
@@ -530,9 +517,3 @@ This project is for educational purposes as part of the DS-2002 course.
 - DS-2002 Course Instructors
 - Azure Databricks Documentation
 - Apache Spark Community
-
----
-
-**Project Status:** ✅ Complete and Ready for Submission
-
-**Last Updated:** November 2024
