@@ -1,0 +1,16 @@
+store_code,store_name,store_type,manager_name,address,city,state,country,postal_code,phone,email,opening_date,square_footage,employee_count
+STR001,Downtown Manhattan,Flagship,Jennifer Lee,123 Broadway,New York,NY,USA,10001,555-1001,manhattan@stores.com,2020-01-15,15000,45
+STR002,Los Angeles West,Standard,Michael Chen,456 Sunset Blvd,Los Angeles,CA,USA,90001,555-1002,lawest@stores.com,2020-03-20,8000,25
+STR003,Chicago Loop,Flagship,Sarah Martinez,789 State Street,Chicago,IL,USA,60601,555-1003,chicagoloop@stores.com,2020-05-10,12000,38
+STR004,Houston Galleria,Standard,Robert Johnson,321 Post Oak Blvd,Houston,TX,USA,77001,555-1004,houstongal@stores.com,2020-07-01,7500,22
+STR005,Phoenix Central,Standard,Amanda White,654 Central Ave,Phoenix,AZ,USA,85001,555-1005,phoenixctr@stores.com,2020-09-15,6500,18
+STR006,Philadelphia Market,Standard,David Brown,987 Market Street,Philadelphia,PA,USA,19101,555-1006,phillymarket@stores.com,2021-01-20,7000,20
+STR007,San Antonio River,Outlet,Maria Garcia,147 River Walk,San Antonio,TX,USA,78201,555-1007,sariver@stores.com,2021-03-10,5000,15
+STR008,San Diego Bay,Standard,James Wilson,258 Harbor Drive,San Diego,CA,USA,92101,555-1008,sdbay@stores.com,2021-05-05,8500,28
+STR009,Dallas Uptown,Flagship,Lisa Anderson,369 McKinney Ave,Dallas,TX,USA,75201,555-1009,dallasup@stores.com,2021-07-12,14000,42
+STR010,San Jose Tech,Standard,Christopher Taylor,741 First Street,San Jose,CA,USA,95101,555-1010,sjtech@stores.com,2021-09-01,9000,30
+STR011,Austin Downtown,Standard,Patricia Moore,852 Congress Ave,Austin,TX,USA,73301,555-1011,austindt@stores.com,2021-11-15,7200,24
+STR012,Seattle Pike,Standard,Daniel Jackson,963 Pike Street,Seattle,WA,USA,98101,555-1012,seattlepike@stores.com,2022-01-10,8200,27
+STR013,Denver Union,Outlet,Nancy Martin,159 Union Station,Denver,CO,USA,80201,555-1013,denverunion@stores.com,2022-03-20,4800,14
+STR014,Boston Newbury,Flagship,Matthew Lee,357 Newbury Street,Boston,MA,USA,02101,555-1014,bostonnew@stores.com,2022-05-15,13000,40
+STR015,Nashville Music,Standard,Barbara Harris,486 Broadway,Nashville,TN,USA,37201,555-1015,nashmusic@stores.com,2022-07-01,7800,26
